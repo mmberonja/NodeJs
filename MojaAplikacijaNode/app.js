@@ -15,6 +15,8 @@ var brojac = 0,brojacOPTIONS = 0;
 
 var app = express();
 
+
+//Micko//
 /*app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());*/
